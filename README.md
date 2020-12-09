@@ -12,3 +12,10 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 ### Project 3
 - Slightly more advanced queries including statements such as WHERE, ORDER BY, INNER JOIN, LEFT OUTER JOIN
 - More SQLite emulation including connection modules
+
+### Project 4
+- Implementation of SQL's LEFT OUTER JOIN and INNER JOIN from scratch in Python
+- Data analysis using column refactoring in SQLite
+- Basic job scheduling algorithms in Python
+- Advanced sub queries and nested queries to pair valentine customers
+- Use SQL tools like SUM() and count() to do more advanced queries
