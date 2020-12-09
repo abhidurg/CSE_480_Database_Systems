@@ -49,3 +49,7 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 ### Project 10
 - Determining if a join is lossless, implemented in Python
 - Parsing CSV files and mapping the information to a Bitmap for database integration
+
+### Project 11
+- Client-side database integration for data consistency
+- Server-side database integration for data matching
