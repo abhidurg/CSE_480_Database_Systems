@@ -31,3 +31,8 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 - Implementation of SQL's conflict detection algorithm in Python
 - Implementation of SQL's precedence identification algorithm in Python
 - Determination of serializability in job scheduling for database consistency, implemented in Python
+
+### Project 7
+- SQL Legality of schedule violation implemenation in Python
+- SQL Two phased locking violation implemenation in Python
+- SQL Consistency of transaction violation implementation in Python
