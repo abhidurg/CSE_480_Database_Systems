@@ -26,3 +26,8 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 - Python function to aggregate censor data
 - Creation of custom collations for more flexibility over basic SQL collations
 - Creation of custom data types using Object-Oriented Programming in Python  for database use
+
+### Project 6
+- Implementation of SQL's conflict detection algorithm in Python
+- Implementation of SQL's precedence identification algorithm in Python
+- Determination of serializability in job scheduling for database consistency, implemented in Python
