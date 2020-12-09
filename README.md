@@ -41,3 +41,7 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 - More advanced SQL query involving name aliasing and terms like SUM() and HAVING
 - "Wait-Die" SQL scheduling order implementation in Python
 - "Wound-Wait" SQL scheduling order implementation in Python
+
+### Project 9
+- SQL Functional Depency checking implementation in Python
+- SQL key and super-key identification implementation in Python
