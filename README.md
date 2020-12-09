@@ -36,3 +36,8 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 - SQL Legality of schedule violation implemenation in Python
 - SQL Two phased locking violation implemenation in Python
 - SQL Consistency of transaction violation implementation in Python
+
+### Project 8
+- More advanced SQL query involving name aliasing and terms like SUM() and HAVING
+- "Wait-Die" SQL scheduling order implementation in Python
+- "Wound-Wait" SQL scheduling order implementation in Python
