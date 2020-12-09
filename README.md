@@ -19,3 +19,10 @@ Project archive from CSE 480 at MSU. Grade (4.0)
 - Basic job scheduling algorithms in Python
 - Advanced sub queries and nested queries to pair valentine customers
 - Use SQL tools like SUM() and count() to do more advanced queries
+
+### Project 5
+- More nested queries, now employing terms like MAX(), DESC, and LIMIT
+- Python function to censor private data in database
+- Python function to aggregate censor data
+- Creation of custom collations for more flexibility over basic SQL collations
+- Creation of custom data types using Object-Oriented Programming in Python  for database use
